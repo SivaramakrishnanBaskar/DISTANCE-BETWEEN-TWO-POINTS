@@ -11,7 +11,8 @@ To operate mathematical operation we must import math
 Get the values from the user
 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  
+![formula](/formula.JPG)
 
 ### Step 4: 
 Print the statement
