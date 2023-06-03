@@ -12,6 +12,7 @@ Get the values from the user
 
 ### Step 3: 
 Substitute the values in the distance formula  
+
 ![formula](/formula.JPG)
 
 ### Step 4: 
@@ -34,4 +35,4 @@ print("{:.2f}".format
 ![image](https://github.com/SivaramakrishnanBaskar/DISTANCE-BETWEEN-TWO-POINTS/assets/119476322/407a382f-e476-4c4c-a906-f0d7e04de6c9)
 
 ### RESULT:
-![image](https://github.com/SivaramakrishnanBaskar/DISTANCE-BETWEEN-TWO-POINTS/assets/119476322/89b70f92-2485-43e8-b5e1-8582b281e9de)
+Python program to find the distance two 2 points is running successfully.
