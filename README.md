@@ -14,7 +14,7 @@ Get the values from the user
 ### Step 3: 
 Substitute the values in the distance formula  
 
-![formula](/formula.JPG)
+![image](https://github.com/SivaramakrishnanBaskar/DISTANCE-BETWEEN-TWO-POINTS/assets/119476322/d32ca5cf-4201-4f6c-88c6-72f7ad79be7d)
 
 ### Step 4: 
 Print the statement
