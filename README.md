@@ -4,6 +4,7 @@
 To write a python program to find the distance two 2 points
 
 ## ALGORITHM:
+
 ### Step 1: 
 To operate mathematical operation we must import math
 
@@ -20,6 +21,8 @@ Print the statement
 
 ### PROGRAM:
 ```
+Program to find the distance between two points.
+
 Developed by:Sivaramakrishnan B
 RegisterNumber:212222110044
 
@@ -32,7 +35,7 @@ print("{:.2f}".format
 ```
 
 ### OUTPUT:
-![image](https://github.com/SivaramakrishnanBaskar/DISTANCE-BETWEEN-TWO-POINTS/assets/119476322/407a382f-e476-4c4c-a906-f0d7e04de6c9)
+![image](https://github.com/SivaramakrishnanBaskar/DISTANCE-BETWEEN-TWO-POINTS/assets/119476322/f363b23e-8b32-4f3d-ace9-0161de6c5548)
 
 ### RESULT:
 Python program to find the distance two 2 points is running successfully.
