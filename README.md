@@ -33,6 +33,8 @@ distance=math.sqrt(((b[0]-a[0])**2)+((b[1]-a[1])**2))
 print("{:.2f}".format
 
 ```
+## Program Statement:
+![image](https://github.com/SivaramakrishnanBaskar/DISTANCE-BETWEEN-TWO-POINTS/assets/119476322/5bad2146-245e-42fb-8ee3-e767e801e507)
 
 ### OUTPUT:
 ![image](https://github.com/SivaramakrishnanBaskar/DISTANCE-BETWEEN-TWO-POINTS/assets/119476322/f363b23e-8b32-4f3d-ace9-0161de6c5548)
